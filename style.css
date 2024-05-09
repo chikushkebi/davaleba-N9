@@ -1,0 +1,78 @@
+img, .a{
+    display: inline-block;
+}
+.a{
+    padding: 50px;
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 0px;
+}
+.diva{
+    display: flex;
+    justify-content: flex-end;
+}
+.img-text1{
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 79px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%)
+}
+.img-text2{
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, 500%)
+}
+.discover{
+    color: #636060;
+font-family: Helvetica;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-bottom: 10px;
+}
+.hope{
+    color: #636060;
+font-family: Helvetica;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hot{
+    color: #010101;
+font-family: Helvetica;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-bottom: 40px;
+}
+.div1{
+    margin-top: 80px;
+    width: 300px;
+    display: inline-block;
+}
+.div2{
+    width: 700px;
+    display: inline-flex;
+    align-items: top;
+    flex-wrap: wrap;
+}
