@@ -75,4 +75,34 @@ padding-bottom: 40px;
     display: inline-flex;
     align-items: top;
     flex-wrap: wrap;
+    padding: 23px;
+}
+.div3{
+    display: flex;
+    justify-content: flex end;
+}
+.div4{
+    display: flex;
+    justify-content: flex end;
+}
+.smallbox{
+    padding: 33px;
+}
+.didi{
+    color: #343232;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 25px;
+}
+.patara{
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 9px;
 }
